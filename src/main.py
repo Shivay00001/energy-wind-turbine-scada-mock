@@ -1,6 +1,6 @@
 import logging
 import asyncio
-from src.scada_server import SCADAServer
+from scada_server import SCADAServer
 
 logging.basicConfig(level=logging.INFO)
 
