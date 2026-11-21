@@ -1,5 +1,7 @@
 # Energy Wind Turbine Scada Mock
 
+Built by [VisionQuantech](https://visionquantech.com) — AI agents, apps & tools for small businesses.
+
 Mock SCADA server for wind turbine energy simulation with Go & Python stack
 
 ![Language](https://img.shields.io/badge/Language-HTML-blue)
